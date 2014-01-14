@@ -5,7 +5,7 @@ Not everyone needs Jquery and Javascript for their bootstrap projects. So I made
 Also come with a grunt file to build from scss to css.
 
 
-## Install
+## Build
 
 	npm install
 	grunt
