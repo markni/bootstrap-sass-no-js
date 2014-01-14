@@ -1,22 +1,15 @@
 {
-  "name": "bootstrap-sass",
+  "name": "bootstrap-sass-no-js",
   "version": "3.0.3",
-  "homepage": "https://github.com/twbs/bootstrap-sass",
-  "authors": [
-    "Thomas McDonald",
-    "Tristan Harward",
-    "Peter Gumeson",
-    "Gleb Mazovetskiy"
-  ],
-  "description": "bootstrap-sass is a Sass-powered version of Bootstrap, ready to drop right into your Sass powered applications.",
-  "main": ["vendor/assets/stylesheets/bootstrap.scss", "vendor/assets/javascripts/bootstrap.js"],
+  "homepage": "https://github.com/xna2/bootstrap-sass-no-js",
+  "description": "bootstrap-sass-no-js is a Sass-powered version of Bootstrap, without bundled Javascript.",
+  "main": ["dist/css/bootstrap.css", "dist/fonts/*"],
   "keywords": [
-    "twbs",
     "bootstrap",
     "sass"
   ],
   "license": "MIT",
   "ignore": [
-    "**/.*", "lib", "tasks", "templates", "test", "*.gemspec", "Rakefile", "Gemfile"
+    "**/.*", "lib", "tasks", "templates", "test", "*.gemspec", "Rakefile", "Gemfile", "node_modules"
   ]
 }
