@@ -1,8 +1,14 @@
 # Bootstrap for Sass (Without Js)
 
-Not everyone needs Jquery and Javascript for their bootstrap projects. So I made a fork.
+Not everyone needs Jquery and Javascript for their bootstrap projects. 
 
-Also come with a grunt file to build from scss to css.
+This fork is modified from the offical repo to suit such a need.  
+
+Primiarly aim to replace sass-bootstrap bower package which included in many Yeoman generators.  
+
+Included a minial Grunt file to build from scss to css.  
+
+The original ruby files are not modifed, but not tested. 
 
 
 ## Install
