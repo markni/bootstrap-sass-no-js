@@ -4,7 +4,7 @@ Not everyone needs Jquery and Javascript for their bootstrap projects.
 
 This fork is modified from the offical repo to suit such a need.  
 
-Primiarly aim to replace sass-bootstrap bower package which included in many Yeoman generators.  
+Primiarly aim to be an alternative choice of `sass-bootstrap` bower package which included in many Yeoman generators.  
 
 Included a minial Grunt file to build from scss to css.  
 
@@ -13,7 +13,7 @@ The original ruby files are not modifed, but not tested.
 
 ## Install
 
-	bower bootstrap-sass-no-js
+	bower install bootstrap-sass-no-js
 
 ## Build
 
