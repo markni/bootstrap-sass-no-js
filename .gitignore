@@ -1,10 +1,10 @@
 *.gem
 .sass-cache
-bootstrap.css
 bootstrap-responsive.css
 Gemfile.lock
 .rvmrc
 .rbenv-version
+
 
 # Ignore bundler config
 /.bundle
@@ -13,3 +13,9 @@ Gemfile.lock
 tmp/
 test/screenshots/
 test/dummy/log/test.log
+
+
+#nodejs
+
+node_modules
+npm.log
